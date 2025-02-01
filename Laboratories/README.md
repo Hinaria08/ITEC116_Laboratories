@@ -2,7 +2,7 @@
 
 This repository contains five activities showcasing the implementation of API development using FastAPI. Each folder corresponds to a specific lab activity, focusing on different aspects of API development, from basic functionality to authentication and versioning.
 
-## Activities
+## Laboratories
 
 ### 1. Factorial API
 
